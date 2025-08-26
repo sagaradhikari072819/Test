@@ -4,11 +4,11 @@ section{
     align-items: center;
     justify-content: space-around;
     border-style: solid;
-    background-color:rgba(243, 245, 39, 0.58);
+    background-color:rgba(245, 39, 135, 0.58);
 }
 body{
     text-align: center;
-    background-color: dodgerblue;
+    background-color: rgb(30, 255, 176);
 }
 ul{
     display: inline;
@@ -26,6 +26,7 @@ ul{
 
 
 img{
-    max-height: 250px;
+    max-height: 200px;
+    max-width: 100%;
     margin-top: 20px;
 }
